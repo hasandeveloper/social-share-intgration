@@ -21,14 +21,14 @@ class ProductsController < ApplicationController
       site: "fddsfdsf",
       title: "fdsfdsfsdf",
       description:  @product.description,
-      image: 'https://cdn.shopify.com/s/files/1/0017/9394/9808/files/new_icon-1.png?0'
+      image: 'http://i63.tinypic.com/2zh4hso.jpg'
     },
     og: {
       title:    "fsdfsdf",
       description: @product.description,
       type:     'websfdsfite',
       url:      product_url(@product),
-      image:    'https://cdn.shopify.com/s/files/1/0017/9394/9808/files/new_icon-1.png?0'
+      image:    'http://i63.tinypic.com/2zh4hso.jpg'
     }
 
  
