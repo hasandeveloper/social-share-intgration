@@ -24,7 +24,7 @@ class ProductsController < ApplicationController
       image: 'http://i63.tinypic.com/2zh4hso.jpg'
     },
     og: {
-      title:    "fsdfsdf",
+      title:    "Refer your 2 friends 5% off get 10% off",
       description: @product.description,
       type:     'websfdsfite',
       url:      product_url(@product),
