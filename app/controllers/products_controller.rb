@@ -28,7 +28,7 @@ class ProductsController < ApplicationController
       description: @product.description,
       type:     'websfdsfite',
       url:      product_url(@product),
-      image:    'http://i63.tinypic.com/2zh4hso.jpg'
+      image:    'https://cdn.shopify.com/s/files/1/0017/9394/9808/files/refer-and-earn-india-2016-800x399.jpg?1'
     }
 
  
